@@ -19,7 +19,7 @@ Step 5: In the MachineLearning environment, open terminal and download streamlit
         sklearn:
         i) pip install sklearn
 
-Step 6: After installing the libraries, open 'Diabetes-prediction-webapp.py' and store it in 'Diabetes Prediction' folder
+Step 6: After installing the libraries, open 'Diabetes-prediction-webapp.py' on Spyder and store it in 'Diabetes Prediction' folder
 
 Step 7: Copy the path of 'Diabetes-prediction-webapp.py'
 
