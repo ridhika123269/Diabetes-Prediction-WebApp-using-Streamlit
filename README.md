@@ -30,3 +30,10 @@ Step 8: Open terminal of MachineLearning environment and run the command:
 Step 9: Enter all the user inputs required 
 
 Step 10: Click on Predict button inorder to predict whether a person is 'Diabetic' or 'Not Diabetic'
+
+#### Important links:
+
+1.Link to download Anaconda: https://www.anaconda.com/products/distribution
+2.About streamlit: https://docs.streamlit.io/library/get-started/installation
+3.About sklearn: https://pypi.org/project/scikit-learn/
+
