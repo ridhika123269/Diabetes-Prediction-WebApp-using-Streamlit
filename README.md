@@ -36,4 +36,5 @@ Step 10: Click on Predict button inorder to predict whether a person is 'Diabeti
 1. Link to download Anaconda: https://www.anaconda.com/products/distribution
 2. About streamlit: https://docs.streamlit.io/library/get-started/installation
 3. About sklearn: https://pypi.org/project/scikit-learn/
+4. Download dataset from: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
