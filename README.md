@@ -29,7 +29,7 @@ Step 8: Open terminal of MachineLearning environment and run the command:
         
 Step 9: Enter all the user inputs required 
 
-Step 10: Click on Predict button inorder to predict whether a person is 'Diabetic' or 'Not Diabetic'
+Step 10: Click on Predict button inorder to predict whether a person is 'Diabetic' or 'Non Diabetic'
 
 #### Important links:
 
