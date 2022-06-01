@@ -18,3 +18,15 @@ Step 5: In the MachineLearning environment, open terminal and download streamlit
         
         sklearn:
         i) pip install sklearn
+
+Step 6: After installing the libraries, open 'Diabetes-prediction-webapp.py' and store it in 'Diabetes Prediction' folder
+
+Step 7: Copy the path of 'Diabetes-prediction-webapp.py'
+
+Step 8: Open terminal of MachineLearning environment and run the command:
+
+        streamlit run "..[path]..\Diabetes-prediction-webapp.py"
+        
+Step 9: Enter all the user inputs required 
+
+Step 10: Click on Predict button inorder to predict whether a person is 'Diabetic' or 'Not Diabetic'
